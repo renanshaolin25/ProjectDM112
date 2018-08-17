@@ -1,0 +1,25 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0
+                             http://maven.apache.org/maven-v4_0_0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>br.inatel.pos</groupId>
+    <artifactId>entrega-services</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0</version>
+    <name>Projects used in DM112 classes</name>
+
+    <modules>
+        <module>EntregaDM112</module>
+        <module>PedidoDM112</module>
+        <module>UtilityDM112</module>
+        <module>CommonsDM112</module>
+    </modules>
+
+    <build>
+    </build>
+
+    <dependencies>
+    </dependencies>
+</project>
