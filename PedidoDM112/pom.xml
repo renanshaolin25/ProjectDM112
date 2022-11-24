@@ -13,7 +13,7 @@
 		<maven.compiler.target>1.7</maven.compiler.target>
 
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<hibernate-core-version>3.5.0-Final</hibernate-core-version>
+		<hibernate-core-version>5.3.20.Final</hibernate-core-version>
 		<jersey.version>2.22</jersey.version>
 		<jaxrs.version>2.0.1</jaxrs.version>
 		<cxf.version>2.7.13</cxf.version>
